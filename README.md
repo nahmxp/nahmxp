@@ -1,6 +1,4 @@
-[![MasterHead](https://i.gifer.com/AjA6.gif)]
-
-<h1 align="center">Hay!! Noortaz Ahmed</h1>
+<h1 align="center">Hay!! Hi, I'm Noortaz Ahmed</h1>
 <h3 align="center">Always Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5d7a23fd02419967cbaed9fe/1627908519303-BH01CUND84YY02QCOERO/rainy+animation+emma+russell.gif?format=1500w">
 
