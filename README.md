@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahmxp&label=Profile%20views&color=0e75b6&style=flat" alt="nahmxp" /> </p>
 
-- 🔭 Currently working on **Image processing**
+- 🔭 Currently working on **Deep Learning/Image processing**
 
-- 🌱 I’m currently learning **AngularJS, Flutter**
+- 🌱 I’m learning **AngularJS, Flutter**
 
-- 💬 Ask me about **Deep Learning**
+- 💬 Interested?? about **Deep Learning**
 
-- 📫 How to reach me **ahmed.noortaz1@gmail.com**
+- 📫 Reach me **ahmed.noortaz1@gmail.com**
 
 - ⚡ Fun fact **:) Very Emo**
 
