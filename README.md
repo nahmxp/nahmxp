@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahmxp&label=Profile%20views&color=0e75b6&style=flat" alt="nahmxp" /> </p>
 
-- 🔭 Currently working on **Deep Learning/Image processing**
+- 🔭 I played many games to escape reality
 
-- 🌱 Interested?? **Deep Learning**
+- 🌱 Now life is playing games with me
 
-- 👯 I’m learning **AngularJS, Flutter**
+- 👯 I'm just a pawn on the Chessboard called reality
 
 - 📫 Connect **ahmed.noortaz1@gmail.com**
 
