@@ -5,9 +5,7 @@
 
 - 🔭 I played many games to escape reality
 
-- 🌱 Now life is playing games with me
-
-- 👯 I'm just a pawn on the Chessboard called reality
+- 🌱 We're just a pawn on the Chessboard called reality
 
 - 📫 Connect **ahmed.noortaz1@gmail.com**
 
