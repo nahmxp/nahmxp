@@ -1,11 +1,3 @@
-<h1 align="center">Hay!! Hi I'm Noortaz Ahmed</h1>
-<h3 align="center">Always Learning</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahmxp&label=Profile%20views&color=0e75b6&style=flat" alt="nahmxp" /> </p>
-
-- 🔭 I played many games to escape reality
-
-- 🌱 poke here without consequence(Unity clips) https://drive.google.com/drive/folders/1Z5uNkiTvp2E5IP4oogLrzdIyyyF2otjq?usp=sharing
 
 - 📫 Connect **ahmed.noortaz1@gmail.com**
 
